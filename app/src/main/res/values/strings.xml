@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="News">News</string>
+    <string name="www_shubhankarpandeydev_com">www.shubhankarpandeydev.com</string>
+    <string name="news_thumbnail">news_thumbnail</string>
+    <string name="textview">textview</string>
+    <string name="search">search</string>
+    <string name="news_logo">News Logo</string>
+</resources>
